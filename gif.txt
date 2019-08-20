@@ -1,0 +1,7 @@
+https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif
+
+body{
+background-image:url(https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif);
+background-size:cover;
+}
+
